@@ -1,0 +1,48 @@
+
+    body{
+         background: orange;
+    }
+    .abc{
+        font-weight:normal;
+    }
+    #container {
+        background-image: url("https://cdn.phohuynh.com/cat.jpg");
+        background-size: cover;
+        background-repeat: none;
+        width: 100vw;
+        height: 50%;
+        padding: 20px 0;
+    }
+    h1 {
+        display: block;
+        font-family: fantasy;
+        padding: 20px;
+        font-size: 7vw;
+        font-weight: bold;
+        text-align: center;
+        text-transform: uppercase;
+        background-color: rgb(223, 103, 103);
+        color: white;
+        mix-blend-mode: multiply; /* Magic happens here */
+    }
+    p{
+        font-size:25px;
+        font-style: italic;
+        font-family: fantasy;
+        
+     color: pink;   
+    } 
+    /* h1 {
+        font-family: fantasy;
+        font-weight: bold; 
+        font-size:50px;
+        color:black;
+    } */
+    body{
+        width: 600px;
+  margin: 0 auto;
+  background-color:rgb(230, 132, 148);
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+
+    }
